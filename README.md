@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<h2 align="center"> Hi there,  this is <a href="https://soumyadeepb.github.io/home/">Soumyadeep</a>! <img src="https://github.com/SoumyadeepB/SoumyadeepB/blob/main/images/Hi.gif" width="30px"></h2>
+
+
+
+
 <!--
 **SNgere/SNgere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
