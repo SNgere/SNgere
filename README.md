@@ -1,6 +1,5 @@
-### Hi there 👋
 
-<h2 align="center"> Hi there,  this is <a href="https://soumyadeepb.github.io/home/">Soumyadeep</a>! <img src="https://github.com/SoumyadeepB/SoumyadeepB/blob/main/images/Hi.gif" width="30px"></h2>
+<h2 align="center"> <a href="https://sngere.github.io/ngeresam.github.io/">Sam Ngere</a>! <img src="https://github.com/SoumyadeepB/SoumyadeepB/blob/main/images/Hi.gif" width="30px"></h2>
 
 
 
