@@ -5,8 +5,8 @@
   <img src="https://i.pinimg.com/originals/96/50/5a/96505a64543fc14ea2888b519b4677e7.gif"  width="33%" height="20%">
 </p>
 
-Some of my relevant project/course works can be found in the following repositories:
-- [Web scraping|Sentiment analysis](https://sngere.github.io/ngeresam.github.io/)
+Projects
+- [Web scraping & Sentiment analysis](https://sngere.github.io/ngeresam.github.io/)
 
 
 
