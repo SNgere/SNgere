@@ -1,5 +1,10 @@
-<h2 align="center"> Hi there,  this is <a href="https://sngere.github.io/ngeresam.github.io/">Ngere Sam</a>! <img src="https://github.com/SoumyadeepB/SoumyadeepB/blob/main/images/Hi.gif" width="30px"></h2>
+<h2 align="center"> Hi there,  this is <a href="https://sngere.github.io/ngeresam.github.io/">Ngere Sam</a> <img src="https://github.com/SoumyadeepB/SoumyadeepB/blob/main/images/Hi.gif" width="30px"></h2>
 
+
+<h4 align="center"> Welcome aboard on this journey through my coding profile... </h4>
+<p align="center">  
+  <img src="https://i.pinimg.com/originals/96/50/5a/96505a64543fc14ea2888b519b4677e7.gif"  width="33%" height="20%">
+</p>
 
 
 <!--
