@@ -5,8 +5,12 @@
   <img src="https://i.pinimg.com/originals/96/50/5a/96505a64543fc14ea2888b519b4677e7.gif"  width="33%" height="20%">
 </p>
 
-Projects
-- [Web scraping & Sentiment analysis](https://sngere.github.io/ngeresam.github.io/)
+this is my personal account where I keep some of my personal projects and frequently used code.
+
+![](https://komarev.com/ghpvc/?username=SNgere)
+
+
+projects
 - [Linear Regression Assumptions and Diagnostics](https://rpubs.com/sngere/1077102)
 
 
