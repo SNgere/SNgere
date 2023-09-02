@@ -7,6 +7,7 @@
 
 Projects
 - [Web scraping & Sentiment analysis](https://sngere.github.io/ngeresam.github.io/)
+- [Linear Regression Assumptions and Diagnostics](https://rpubs.com/sngere/1077102)
 
 
 
