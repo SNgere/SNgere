@@ -1,4 +1,4 @@
-<h2 align="center"><a href="https://sngere.github.io/ngeresam.github.io/">$am</a> </h2>
+<h2 align="center"><a href="https://sngere.github.io/ngeresam.github.io/">sam</a> </h2>
 
 
 <p align="center">  
