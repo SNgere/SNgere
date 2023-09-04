@@ -16,6 +16,7 @@ projects
 - [transforming non-normal distribution](https://github.com/SNgere/ml/blob/main/Transforming%20Non-Normal%20Distribution/Transforming%20Non-Normal%20Distribution.ipynb)
 - [polynomial regression](https://github.com/SNgere/ml/blob/main/simple%20polynormial%20regression/Polynomial%20Regression.ipynb)
 - [tableau](https://public.tableau.com/app/profile/samuel.njoroge8409/viz/EJBAnnualReport/Dashboard2#3)
+- [sentiment analysis](https://github.com/SNgere/web-scrapper/blob/main/web%20scraping%20and%20sentiment%20analysis.ipynb)
 
 
 
