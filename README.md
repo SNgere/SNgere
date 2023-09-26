@@ -5,7 +5,7 @@
   <img src="https://i.pinimg.com/originals/96/50/5a/96505a64543fc14ea2888b519b4677e7.gif"  width="33%" height="20%">
 </p>
 
-this is my personal account | projects | frequent code
+personal account | projects | frequent code
 
 ![](https://komarev.com/ghpvc/?username=SNgere)
 
