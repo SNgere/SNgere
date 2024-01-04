@@ -20,7 +20,7 @@ projects
 - [sentiment analysis](https://github.com/SNgere/web-scrapper/blob/main/web%20scraping%20and%20sentiment%20analysis.ipynb)
 - [decision trees](https://github.com/SNgere/ml/blob/main/decision%20trees/decision%20trees.ipynb)
 - [logistic regression](https://github.com/SNgere/ml/blob/main/logistic%20regression/logistic%20regression%20-%20Copy.ipynb)
-- [keras deep learning network](https://github.com/SNgere/ml/blob/main/keras/churn%20-%20keras%20v3.ipynb)
+- [keras deep learning](https://github.com/SNgere/ml/blob/main/keras/churn%20-%20keras%20v3.ipynb)
 
 
 
