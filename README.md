@@ -2,7 +2,7 @@
 
 
 <p align="center">  
-  <img src="https://i.pinimg.com/originals/96/50/5a/96505a64543fc14ea2888b519b4677e7.gif"  width="33%" height="20%">
+  <img src="https://sdmntprcentralus.oaiusercontent.com/files/00000000-adc8-61f5-9113-dd789357b524/raw?se=2025-09-08T23%3A17%3A12Z&sp=r&sv=2024-08-04&sr=b&scid=8e22a727-20e3-54ad-996d-77d970f4ead1&skoid=04233560-0ad7-493e-8bf0-1347c317d021&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-08T18%3A43%3A35Z&ske=2025-09-09T18%3A43%3A35Z&sks=b&skv=2024-08-04&sig=AO2PTs9KtIPuu%2B3vhM3TyHN3/qIAwv5eyFHsZCfTkTo%3D"  width="33%" height="20%">
 </p>
 
 personal account | projects | frequent code
