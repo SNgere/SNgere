@@ -6,6 +6,7 @@
 
 
 projects
+- [Dash](https://github.com/SNgere/Dash)
 - [linear regression assumptions and diagnostics](https://rpubs.com/sngere/1077102)
 - [simple linear regression](https://github.com/SNgere/ml/blob/main/Simple%20Linear%20Regression/Simple%20Linear%20Regression.ipynb)
 - [transforming non-normal distribution](https://github.com/SNgere/ml/blob/main/Transforming%20Non-Normal%20Distribution/Transforming%20Non-Normal%20Distribution.ipynb)
